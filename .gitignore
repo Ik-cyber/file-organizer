@@ -11,6 +11,10 @@ bin/
 /bin
 obj/
 
+# testfolder
+testfolder/
+/testfolder
+
 # Dependency directories
 vendor/
 

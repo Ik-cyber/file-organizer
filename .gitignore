@@ -8,6 +8,7 @@ organizer   # if you build a binary with this name
 
 # Output folders
 bin/
+/bin
 obj/
 
 # Dependency directories
